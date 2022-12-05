@@ -54,7 +54,7 @@
       <div class="row">
         <!--<h1><a href="index.html"><font color="#3498db
 		">QA</font>nix</a></h1> -->
-		<a href=""> <img src="assets/img/logo.png" width="30%" height= "100%" alt=""> </a>
+		<img src="assets/img/logo.png" width="30%" height= "100%" alt="">
 
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
@@ -321,7 +321,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">GAME TESTING</a></h4>
+              <h4 class="title"><a href="">ROBOTIC PROCESS AUTOMATION</a></h4>
               <p class="description">Improve your internal testing processes and optimize release policies. Build your own Testing Center of Excellence.</p>
             </div>
           </div>
