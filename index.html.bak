@@ -101,7 +101,7 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Independent Software Testing Company</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented QA engineers helping you to improve the quality of your product with surity</h2>
+          <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented QA Engineers helping you to improve the quality of your product with surity</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Hire a Tester</a>
           </div>
@@ -797,8 +797,26 @@
                 </div>-->
               </div>
               <div class="member-info">
+                <h4>Samir S.</h4>
+                <span>&nbsp;&nbsp;Lead Automation Test Engineer&nbsp;&nbsp;</span>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <!--<div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>-->
+              </div>
+              <div class="member-info">
                 <h4>Bhavika S.</h4>
-                <span>Lead Automation Test Engineer</span>
+                <span>&nbsp;&nbsp;&nbsp;Sr. Automation Test Engineer&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -816,7 +834,7 @@
               </div>
               <div class="member-info">
                 <h4>Vish S.</h4>
-                <span>Sr. Automation Test Engineer</span>
+                <span>&nbsp;Sr. Automation Test Engineer&nbsp;</span>
               </div>
             </div>
           </div>
@@ -834,7 +852,25 @@
               </div>
               <div class="member-info">
                 <h4>Hetarsi S.</h4>
-                <span>&nbsp;&nbsp;Automation Test Engineer &nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Test Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <!--<div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>-->
+              </div>
+              <div class="member-info">
+                <h4>Hitesh P.</h4>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead QA Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -852,7 +888,7 @@
               </div>
               <div class="member-info">
                 <h4>Viral P.</h4>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lead QA Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. QA Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -870,7 +906,7 @@
               </div>
               <div class="member-info">
                 <h4>Umangi Z.</h4>
-                <span>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. QA Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QA Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				</span>
               </div>
             </div>
