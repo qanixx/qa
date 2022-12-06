@@ -165,12 +165,13 @@
                We extend our services to a wide range of companies/ enterprises hailing from diverse industry verticals.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Finance and Banking | 
+              <li><i class="ri-check-double-line"></i> Fintech and Banking | 
 			   E-Commerce & Auction
 			  </li>
-              <li><i class="ri-check-double-line"></i> Retail and Sales | B2B & B2C Enterprises </li>
-              <li><i class="ri-check-double-line"></i>  Supply Chain Management | Health Care & Fitness</li>
-			  <li><i class="ri-check-double-line"></i> Telecom and IT Sector |Insurance and Taxes </li>
+              <li><i class="ri-check-double-line"></i> Business App | Enterprise Resouce Planning  </li>
+              <li><i class="ri-check-double-line"></i>  Travel Software | Health Care & Fitness</li>
+			  <li><i class="ri-check-double-line"></i> Healthcare | Media and Entertainment </li>
+			  <li><i class="ri-check-double-line"></i> Cybersecurity |  </li>
               
             </ul>
           </div>
@@ -220,7 +221,7 @@
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
                     <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Years in Business</strong> </p>
+                    <p><strong>Years in SQA Business</strong> </p>
                   </div>
                 </div>
 
@@ -780,7 +781,7 @@
               </div>
               <div class="member-info">
                 <h4>Nikunj P.</h4>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder & CEO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founder & CEO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -816,7 +817,7 @@
               </div>
               <div class="member-info">
                 <h4>Bhavika S.</h4>
-                <span>&nbsp;&nbsp;&nbsp;Sr. Automation Test Engineer&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;Sr. Automation Test Engineer&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -834,7 +835,7 @@
               </div>
               <div class="member-info">
                 <h4>Vish S.</h4>
-                <span>&nbsp;Sr. Automation Test Engineer&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;Sr. Automation Test Engineer&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -852,7 +853,7 @@
               </div>
               <div class="member-info">
                 <h4>Hetarsi S.</h4>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Test Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Test Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -888,7 +889,7 @@
               </div>
               <div class="member-info">
                 <h4>Viral P.</h4>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. QA Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sr. QA Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
               </div>
             </div>
           </div>
@@ -906,7 +907,7 @@
               </div>
               <div class="member-info">
                 <h4>Umangi Z.</h4>
-                <span>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QA Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QA Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				</span>
               </div>
             </div>
