@@ -384,7 +384,7 @@
           <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="ri-check-double-line" style="color: #e361ff;"></i>
-              <h3><a href="">WebDriverIO</a></h3>
+              <h3><a href="">WebdriverIO</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
@@ -396,19 +396,19 @@
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-check-double-line" style="color: #ffa76e;"></i>
-              <h3><a href="">Java</a></h3>
+              <h3><a href="">Ranorex</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-check-double-line" style="color: #11dbcf;"></i>
-              <h3><a href="">C#</a></h3>
+              <h3><a href="">Mabl</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-check-double-line" style="color: #4233ff;"></i>
-              <h3><a href="">Python</a></h3>
+              <h3><a href="">HP Alm</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
@@ -431,11 +431,65 @@
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
-              <i class="ri-bookmark-line" style="color: #29cc61;"></i>
-              <h3><a href="">Jmeter</a></h3>
+              <i class="ri-check-double-line" style="color: #29cc61;"></i>
+              <h3><a href="">Github Actions</a></h3>
             </div>
           </div>
+		  
+		  <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #ffbb2c;"></i>
+              <h3><a href="">Apache Jmeter</a></h3>
+            </div>
+          </div>
+		  
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #5578ff;"></i>
+              <h3><a href="">Accunetix</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #e80368;"></i>
+              <h3><a href="">Jira</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #e361ff;"></i>
+              <h3><a href="">Postman</a></h3>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #47aeff;"></i>
+              <h3><a href="">Java</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #ffa76e;"></i>
+              <h3><a href="">C#</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #11dbcf;"></i>
+              <h3><a href="">Python</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-check-double-line" style="color: #4233ff;"></i>
+              <h3><a href="">Javascript</a></h3>
+            </div>
+          </div>
+		  
         </div>
+		
+
 
       </div>
     </section><!-- End Features Section -->
@@ -1078,7 +1132,7 @@
 
 			  <div>
                 <i class="ri-group-line"></i>
-                <p>careers@qanix.io</p>
+                <p>career@qanix.io</p>
               </div>
 			  
             </div>
@@ -1086,7 +1140,7 @@
 
           <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
 		  
-            <form action="https://formsubmit.co/qanikunj1@gmail.com" method="post" >
+            <form action="https://formsubmit.co/qanikunj1@gmail.com" method="post" role="form" class="php-email-form">
               <div class="form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
               </div>
