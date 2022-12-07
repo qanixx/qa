@@ -1122,7 +1122,7 @@
 
               <div>
                 <i class="ri-mail-send-line"></i>
-                <p>inquiry@qanix.io</p>
+                <p>hello@qanix.io</p>
               </div>
 			  
               <div>
@@ -1141,6 +1141,13 @@
           <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
 		  
             <form action="https://formsubmit.co/qanikunj1@gmail.com" method="post" role="form" class="php-email-form">
+			  <div class="form-group">
+                <input type="hidden" name="_subject" class="form-control" value = "New Client Inquiry !">
+              </div>
+			  <div class="form-group">
+                <input type="hidden" name="_captcha" class="form-control" value = "false">
+              </div>
+			
               <div class="form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
               </div>
