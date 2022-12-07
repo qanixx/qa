@@ -1147,8 +1147,6 @@
 			  <div class="form-group">
 				<input type="hidden" name="_next" value="">
 			  </div>
-
-			  
 			  <div class="form-group">
                 <input type="hidden" name="_captcha" class="form-control" value = "false">
               </div>
