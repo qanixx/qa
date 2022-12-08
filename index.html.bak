@@ -284,7 +284,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bxs-cog"></i></div>
               <h4 class="title"><a href="">API TESTING</a></h4>
-              <p class="description">Improve your internal testing processes and optimize release policies. Build your own Testing Center of Excellence.</p>
+              <p class="description">Make sure your  microservices architecture, delivers as expected while meeting rigorous quality requirements, from low-level services to public APIs and the front-end.</p>
             </div>
           </div>
 		  
@@ -292,8 +292,8 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bxs-game"></i></div>
               <h4 class="title"><a href="">GAME TESTING</a></h4>
-              <p class="description">Ensure responsiveness of your
-			  website or mobile app on various screen size  handsets or browsers for best end user experience.</p>
+              <p class="description">Disrupt the gaming industry with high-performing, UX-rich games with our tech QA
+                    solutions.</p>
             </div>
           </div>
 
@@ -301,7 +301,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bxs-bot"></i></div>
               <h4 class="title"><a href="">ROBOTIC PROCESS AUTOMATION</a></h4>
-              <p class="description">Improve your internal testing processes and optimize release policies. Build your own Testing Center of Excellence.</p>
+              <p class="description">We empower businesses to access the full potential of their employees and integrate automation into a business context, to manage the processes that are important for them.</p>
             </div>
           </div>
 
@@ -317,7 +317,7 @@
               <div class="icon"><i class="bx bxs-cloud-download"></i></div>
               <h4 class="title"><a href="">IOT TESTING</a></h4>
               <p class="description">	
-				Validate your Software or Apps security to ensure secure and reliable usage environment for the end-users.</p>
+				We have access to advanced testing frameworks, experienced IoT QA specialists, and device simulation tools to ensure your IoT network is fully interoperable.</p>
             </div>
           </div>
 
@@ -1163,7 +1163,7 @@
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div> -->
+              </div> 
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
           </div>
@@ -1194,10 +1194,11 @@
         </div>
         <div class="col-lg-6">
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-            <a href="#intro" class="scrollto">Home</a>
+            <a href="#hero" class="scrollto">Home</a>
             <a href="#about" class="scrollto">About</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Use</a>
+             <a href="#team" class="scrollto">Team</a>
+             <a href="#services" class="scrollto">Services</a>
+			 <a href="#contact" class="scrollto">Contact</a>
           </nav>
         </div>
       </div>
