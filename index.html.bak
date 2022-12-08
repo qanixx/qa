@@ -1122,7 +1122,7 @@
 
               <div>
                 <i class="ri-mail-send-line"></i>
-                <p>hello@qanix.io</p>
+                <p>inquiry@qanix.io</p>
               </div>
 			  
               <div>
@@ -1140,7 +1140,7 @@
 
           <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
 		  
-            <form action="https://formsubmit.co/qanikunj1@gmail.com" method="post" role="form">
+            <form action="https://formsubmit.co/qanikunj1@gmail.com" method="post" role="form" class="php-email-form">
 			  <div class="form-group">
                 <input type="hidden" name="_subject" class="form-control" value = "New Client Inquiry !">
               </div>
@@ -1159,11 +1159,11 @@
               <div class="form-group">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
-              <!--<div class="my-3">
-                <div class="loading">Loading</div>
+              <div class="my-3">
+                <!--<div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div> -->
+                <div class="sent-message">Your message has been sent. Thank you!</div> -->
+              </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
           </div>
@@ -1196,8 +1196,8 @@
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
             <a href="#hero" class="scrollto">Home</a>
             <a href="#about" class="scrollto">About</a>
-             <a href="#team" class="scrollto">Team</a>
              <a href="#services" class="scrollto">Services</a>
+			  <a href="#team" class="scrollto">Team</a>
 			 <a href="#contact" class="scrollto">Contact</a>
           </nav>
         </div>
